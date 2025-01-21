@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cataleg>
+    <llista_actors>
+        <actor id="1">
+            <nom>RobertdeNiro</nom>
+            <edat>88</edat>
+            
+        </actor>
+        <actor id="2">
+            <nom>Meryl Streep</nom>
+            <edat></edat>
+            
+        </actor>
+        <actor id="3">
+            <nom>Leonardo DiCaprio</nom>
+            <edat>49</edat>
+            
+        </actor>
+    </llista_actors>
+    <llista_pelicules>
+        <pelicula id"001">
+            <titol idioma="">Avatar</titol>
+            <director>James Cameron</director>
+            <any>2008</any>
+            <actors>
+                <actor_ref REF="" />
+            </actors>
+        </pelicula>
+    </llista_pelicules>
+    <llista_recomanacions_pelicules>
+        <recomanacions ref="" />
+    </llista_recomanacions_pelicules>    
+</cataleg>
